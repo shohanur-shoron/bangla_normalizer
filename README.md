@@ -14,7 +14,7 @@ The library handles both Bengali (০-৯) and Western (0-9) digits within the r
 You can install the library directly from PyPI using pip:
 
 ```bash
-pip install bangla_normalizer
+pip install bangla-normalizer
 ```
 
 Make sure you have Python 3.7 or higher installed. The library depends on `python-dateutil` and `regex` (implicitly, as it's used internally).

@@ -755,7 +755,7 @@ While not meant for direct user editing, understanding its role is key to the li
 
 Contributions are welcome! If you find a bug, have a suggestion for improvement, or want to add support for more normalization patterns, please:
 
-1.  Check the [Issue Tracker](URL_TO_YOUR_GITHUB_ISSUES_PAGE) to see if the issue already exists.
+1.  Check the [Issue Tracker](https://github.com/shohanur-shoron/bangla_normalizer/issues) to see if the issue already exists.
 2.  If not, open a new issue describing the problem or suggestion.
 3.  For code contributions, please fork the repository, create a new branch for your feature or bugfix, and submit a pull request. Please include tests for your changes if possible.
 

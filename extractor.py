@@ -80,7 +80,7 @@ def extract_distance(sentence: str) -> list[str]:
     Extracts Non-Standard Words (NSWs) related to distance and dimension units from Bangla or English text.
 
     Supports:
-    - Multiple numeral systems: Arabic (0-9), Bangla (০-৯)
+    - Multiple numeral systems: English (0-9), Bangla (০-৯)
     - Various measurement units: m, km, cm, mm, µm, mi, ft, in, ", ', etc.
     - Dimension expressions: 12' x 10", ২০m × ১০m
     - Single units: 11", ১৫০cm, 2.5km
